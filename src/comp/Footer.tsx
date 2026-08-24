@@ -36,8 +36,8 @@ const Footer: React.FC = () => {
                   +1 (205) 549-2340
                 </a>
               </p>
-              <p>contact@decapitol.co</p>
-              <p>info@decapitol.co</p>
+              <p>contact@decapitol.online</p>
+              <p>contact@lifelinecounsel.online</p>
             </div>
           </div>
 
