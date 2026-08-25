@@ -37,7 +37,6 @@ const Footer: React.FC = () => {
                 </a>
               </p>
               <p>contact@decapitol.online</p>
-              <p>contact@lifelinecounsel.online</p>
             </div>
           </div>
 
